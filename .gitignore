@@ -1,7 +1,10 @@
 /build/
+/out/
 /.vs/
 /.vscode/
-CMakeUserPresets.json
+*.exe
+*.o
+*.obj
 *.user
 *.suo
 *.log
